@@ -11,10 +11,10 @@ Anweldung ermöglicht es dem Benutzer, durch eine hierarchische Ordnerstruktur z
   Dateien in ein lokales Verzeichnis kopiert werden.
 
 ## Funktionen
-- OOP Design: Der Code ist unter Verwendung von OOP Prinzipien organisiert, was für sauberen und wartbaren Code sorgt.
-- Webserver: Ein einfacher HTTP Server läuft auf localhost:8000 und verarbeitet Datei Anfragen (GET).
-- UI: Die UI, die mit Java Swing erstellt wurde, ermöglicht es dem Benutzer, durch den Datei Explorer zu navigieren.
-- Dateidownload: Benutzer können Dateien vom Server auf ihr lokales System herunterladen, indem sie auf den Datei Button klicken.
+- **OOP Design:** Der Code ist unter Verwendung von OOP Prinzipien organisiert, was für sauberen und wartbaren Code sorgt.
+- **Webserver:** Ein einfacher HTTP Server läuft auf localhost:8000 und verarbeitet Datei Anfragen (GET).
+- **UI:** Die UI, die mit Java Swing erstellt wurde, ermöglicht es dem Benutzer, durch den Datei Explorer zu navigieren.
+- **Dateidownload:** Benutzer können Dateien vom Server auf ihr lokales System herunterladen, indem sie auf den Datei Button klicken.
 
 ## Anerkennung
 Der Backend dieses Projekts wurde vom Professor bereitgestellt und wurde in keiner Weise verändert.
