@@ -16,8 +16,8 @@ Anweldung ermöglicht es dem Benutzer, durch eine hierarchische Ordnerstruktur z
 - UI: Die UI, die mit Java Swing erstellt wurde, ermöglicht es dem Benutzer, durch den Datei Explorer zu navigieren.
 - Dateidownload: Benutzer können Dateien vom Server auf ihr lokales System herunterladen, indem sie auf den Datei Button klicken.
 
-### Anerkennung
+## Anerkennung
 Der Backend dieses Projekts wurde vom Professor bereitgestellt und wurde in keiner Weise verändert.
 
-### Lizenz
+## Lizenz
 Dieses Projekt ist Open-Source und unter der [MIT-Licence](https://opensource.org/licenses/MIT) verfügbar. 
